@@ -1,4 +1,4 @@
-# NumConvExtUtils
+ï»¿# NumConvExtUtils
 Convert normal number string to Chinese number string.  
 
 ## References  
@@ -7,4 +7,5 @@ Convert normal number string to Chinese number string.
 
 > System.out.println("convert : " + NumConvExtUtils.convert("100006", false));  
 >   
-> convert : Ê®ÍòÁãÁù  
+> convert : åä¸‡é›¶å…­  
+
